@@ -146,7 +146,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #7c4fe0;
+    color: #56aa61;
 }
 
 a,
@@ -229,7 +229,7 @@ img {
 }
 
 .text-primary {
-    color: #7c4fe0 !important;
+    color: #56aa61 !important;
 }
 
 .text-secondary {
@@ -278,7 +278,7 @@ img {
     content: '';
     height: 2px;
     width: 70px;
-    background-color: #7c4fe0;
+    background-color: #56aa61;
     bottom: -15px;
     left: 50%;
     -webkit-transform: translateX(-50%);
@@ -429,7 +429,7 @@ img {
     width: 100%;
     display: block;
     border-radius: 120px;
-    background: linear-gradient(-47deg, #8731E8 0%, #4528DC 100%);
+    background: linear-gradient(-47deg, #56aa61 0%, #3ab54a 100%);
     bottom: 0;
     right: 0;
     -webkit-transform: translate(35%,-28%) rotate(-35deg);
@@ -502,7 +502,7 @@ img {
 .btn.sApp-btn:before,
 .bg-overlay::after,
 .benifits-item:after {
-    background: linear-gradient(-47deg, #8731E8 0%, #4528DC 100%);
+    background: linear-gradient(-47deg, #56aa61 0%, #3ab54a 100%);
 }
 
 /*SOCIAL ICONS*/
@@ -1010,7 +1010,7 @@ img {
 
 .play-icon {
     font-size: 22px;
-    color: #7c4fe0;
+    color: #56aa61;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -1184,7 +1184,7 @@ img {
 
 .single-counter span {
     font-size: 3em;
-    background: linear-gradient(-47deg, #8731E8 0%, #4528DC 100%);
+    background: linear-gradient(-47deg, #56aa61 0%, #3ab54a 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -1227,7 +1227,7 @@ img {
     text-align: center;
     line-height: 54px;
     font-size: 24px;
-    color: #7c4fe0;
+    color: #56aa61;
     border-radius: 4px;
     background-color: #fff;
     border: 1px solid rgba(0, 0, 0, 0.1);
@@ -1328,9 +1328,9 @@ img {
 
 .slick-dots .slick-active button,
 .testimonial-area .owl-carousel button.owl-dot.active {
-    background-color: #7c4fe0;
-    -webkit-box-shadow: 0 1px 5px #7c4fe0;
-    box-shadow: 0 1px 5px #7c4fe0;
+    background-color: #56aa61;
+    -webkit-box-shadow: 0 1px 5px #56aa61;
+    box-shadow: 0 1px 5px #56aa61;
 }
 
 /* ******************************
@@ -1543,7 +1543,7 @@ img {
     left: 0;
     bottom: 0;
     right: 0;
-    background-color: #7c4fe0;
+    background-color: #56aa61;
     border-radius: 100px;
     opacity: 0.9;
     z-index: -1;
@@ -1628,7 +1628,7 @@ img {
 .subscribe-form button {
     height: 60px;
     border-radius: 8px;
-    background: #7c4fe0 !important;
+    background: #56aa61 !important;
 }
 
 /* ******************************
@@ -1815,7 +1815,7 @@ img {
 }
 
 .widget-items li a.active {
-    color: #7c4fe0;
+    color: #56aa61;
 }
 
 .widget-items li a::before {
@@ -1841,7 +1841,7 @@ img {
 .widget-items li a:focus::before,
 .widget-items li a.active::before {
     width: 2px;
-    background-color: #7c4fe0;
+    background-color: #56aa61;
 }
 
 .widget-items li a span {
@@ -1979,7 +1979,7 @@ img {
 .comments-content > h5 > a:last-child {
     font-size: 14px;
     font-weight: 500;
-    color: #7c4fe0;
+    color: #56aa61;
 }
 
 .contact-box.comment-box {
@@ -2011,7 +2011,7 @@ img {
     line-height: 45px;
     font-size: 18px;
     text-align: center;
-    background-color: #7c4fe0;
+    background-color: #56aa61;
     color: #fff;
     border-radius: 4px;
 }
@@ -2054,7 +2054,7 @@ img {
 .contact-box button {
     height: 60px;
     border-radius: 8px;
-    background: #7c4fe0 !important;
+    background: #56aa61 !important;
 }
 
 /*Map Area*/
