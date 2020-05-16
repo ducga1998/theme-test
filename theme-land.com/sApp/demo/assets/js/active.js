@@ -130,10 +130,10 @@
     });
 
     // :: 9.0 COUNTERUP ACTIVE CODE
-    $('.counter').counterUp({
-        delay: 10,
-        time: 1000
-    });
+    // $('.counter').counterUp({
+    //     delay: 10,
+    //     time: 1000
+    // });
 
     // :: 10.0 FANCYBOX VIDEO POPUP ACTIVE CODE
     $(".fancyVideo").fancybox({
