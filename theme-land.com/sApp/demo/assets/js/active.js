@@ -138,7 +138,7 @@
     // :: 10.0 FANCYBOX VIDEO POPUP ACTIVE CODE
     $(".fancyVideo").fancybox({
         animationEffect : "zoom-in-out",
-        transitionEffect : "circular",
+    transitionEffect : "circular",
         maxWidth    : 800,
         maxHeight   : 600
     });
